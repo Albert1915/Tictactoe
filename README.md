@@ -15,7 +15,7 @@ By using CFG_Parsing
 Tictactoe is created using:
 - [Python](https://www.python.org/) - 
 Python as the main programming language.
-- [Streamlit](https://streamlit.io/) - Streamlit is a web framework for python that we use to deploy our apps.
+- [pygame]- Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
 
 
 ## Contributors ✨
